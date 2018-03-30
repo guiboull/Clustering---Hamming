@@ -2,7 +2,7 @@
 
      # Un	nouvel	apprentissage	pour	du	clustering	
 	
-Vous	devez	rendre	votre	projet	(code	+	document	–	questions,	instructions	de	déploiement,	description	de	l’algorithme,	étude	de	la	complexité	et	des	performances)	pour	le	3	Janvier	2018	minuit.		Les	langages	dédiés	au	Web	et	les	applications	Web	sont	interdits.	Toute	heure	de	retard	sera	pénalisée	pour	-1	point	sur	la	note	finale.	Tout	rendu	doit	être	individuel,	tout	travail	rendu	collectif	sera	sanctionné	par	0.	Le	rendu	se	fera	par	mail	à	lcrepin@ludivinecrepin.fr.	
+Vous	devez	rendre	votre	projet	(code	+	document	–	questions,	instructions	de	déploiement,	description	de	l’algorithme,	étude	de	la	complexité	et	des	performances)	pour	le	3	Janvier	2018	minuit.		Les	langages	dédiés	au	Web	et	les	applications	Web	sont	interdits.	Toute	heure	de	retard	sera	pénalisée	pour	-1	point	sur	la	note	finale.	Tout	rendu	doit	être	individuel,	tout	travail	rendu	collectif	sera	sanctionné	par	0.	
 	
           # Principe	:	distance	de	Hamming	:	
           
